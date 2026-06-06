@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853449656422",
+    "project_id": "near-campus-prod",
+    "storage_bucket": "near-campus-prod.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853449656422:android:dd8b56a2d659064e3d85a7",
+        "android_client_info": {
+          "package_name": "com.yigittepe.nearcampus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTUkeWccAE8OqQvTnNwYcxoF0dnoER6DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
